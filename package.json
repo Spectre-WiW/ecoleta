@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/wilian2/ecoleta#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "nunjucks": "^3.2.1",
     "package.json": "^2.0.1",
     "sqlite3": "^4.2.0"
